@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import tkinter as tk
 import tkinter.simpledialog
 import os, sys, subprocess, time, re, pexpect
